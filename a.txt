@@ -1,0 +1,2 @@
+the salary of employee is 34
+the name of the employee is adesh
